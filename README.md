@@ -1,5 +1,16 @@
 # EffortLess-Css
 
+ EffortLess Css Framework is a lightweight and easy-to-use framework for building modern, responsive websites and applications. It includes a variety of reusable styles and components, as well as several useful JavaScript utilities.
+
+ # Installation
+To install My CSS Framework, simply download the latest version from the releases page and link to the `*Effortless_1.0.css and Effortless_1.0.js*` file in your HTML:
+
+` <link rel="stylesheet" href="Effortless_1.0.css">`
+`and `
+``<script src="Effortless_1.0.js"></script>``
+
+`You can also install My CSS Framework using npm: npm install Effortless-Css`
+
 # Contribution Guide
 Thank you for considering contributing to My CSS Framework! We welcome contributions of all kinds, whether you're a seasoned developer or new to open source.
 
